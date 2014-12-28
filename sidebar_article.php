@@ -3,7 +3,7 @@
 /**
  * Show RSS feeds in your site
  * 
- * @author  	Douglas Burchardz
+ * @author  	Douglas Burchard
  * @package		KcsaraTwo\Widgets
  */
 class Widget_Sidebar_article extends Widgets
